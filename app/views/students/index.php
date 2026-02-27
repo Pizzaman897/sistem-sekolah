@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="/css/output.css">
 </head>
 <body>
-    <h1 class="text-white">Daftar Siswa</h1>
+    <h1 class="text-red">Daftar Siswa</h1>
     <p>Menampilkan Daftar Siswa</p>
 </body>
 </html>
